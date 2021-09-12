@@ -13,8 +13,8 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.instagram.com/iamabhid/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:abhidharmik1997@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.instagram.com/iamabhid/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-iamabhid-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:abhidharmik1997@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-abhidhaarmik1997@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-⭐️ From [AVS1508](https://github.com/abhishekdharmik)
+⭐️ From [Abhishek Dharmik](https://github.com/abhishekdharmik)
